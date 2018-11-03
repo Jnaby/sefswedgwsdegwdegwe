@@ -1,0 +1,2 @@
+node Stuning.js
+pause
